@@ -1,0 +1,33 @@
+{
+    "id": "123456",
+    "name": {
+      "firstName": "John",
+      "middleName": "David",
+      "lastName": "Doe"
+    },
+    "gender": "male",
+    "dateOfBirth": "2000-01-01",
+    "email": "john.doe@example.com",
+    "contactNo": "123-456-7890",
+    "emergencyContactNo": "098-765-4321",
+    "bloodGroup": "O+",
+    "presentAddress": "123 Main Street, Cityville, ST, 12345",
+    "permanentAddress": "456 Another St, Townsville, ST, 67890",
+    "guardian": {
+      "fatherName": "James Doe",
+      "fatherOccupation": "Engineer",
+      "fatherContactNo": "321-654-0987",
+      "motherName": "Jane Doe",
+      "motherOccupation": "Teacher",
+      "motherContactNo": "654-321-0987"
+    },
+    "localGuardian": {
+      "name": "Michael Smith",
+      "occupation": "Lawyer",
+      "contactNo": "987-654-3210",
+      "address": "789 Guardian Ln, Neighbourville, ST, 54321"
+    },
+    "profileImg": "https://example.com/path/to/profile/image.jpg",
+    "isActive": "active"
+  }
+  
